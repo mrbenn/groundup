@@ -4,8 +4,7 @@ gem "cucumber", "2.4.0"
 gem "rspec"
 gem "capybara", "2.15.3"
 gem "selenium-webdriver", "3.6.0"
+gem 'chromedriver-helper'
 gem "site_prism", "2.9"
 gem "rspec-expectations", "3.7.0"
 gem "httparty", "0.13.7"
-
-
