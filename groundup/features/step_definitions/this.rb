@@ -1,5 +1,4 @@
 Given(/^user goes there$/) do
-  scenario.to_sexp.inspect
   visit('https://www.itv.com')
   expect()
 end
